@@ -1,21 +1,22 @@
 Hi there, I'm Noxety! 👋
 About Me
-I’m a full-stack developer and freelance graphic designer who’s been crafting code and visuals since 2018. With hands-on experience in React, Laravel, Next.js, and mobile development using Kotlin, I specialize in building scalable web apps, ERP & POS systems, and smooth UI/UX powered by Framer Motion and Anime.js animations.
+I’m a full-stack developer and freelance graphic designer, debugging life (and code) since 2018. I build scalable web apps, ERP & POS systems, and smooth UI/UX experiences — all powered by React, Laravel, Kotlin, and a dash of caffeine.
 
-🌱 Currently deepening my knowledge in AI integration, automation with Zapier, and exploring cutting-edge web technologies
+🌱 Currently trying to teach AI to do my job so I can focus on coffee breaks ☕
 
-👯 Open to collaborating on smart web apps, ERP/POS automation, AI-powered dashboards, and creative UI/UX projects
+👯 Always open to collaborating on projects that make computers smarter and users happier
 
-📫 Reach me at: thura3.shine33@gmail.com
+📫 Ping me at: thura3.shine33@gmail.com — I promise I don’t bite!
 
 What I’ve Built
-AI-powered POS & ERP systems for jewelry businesses, integrating real-time data analysis and automation
+AI-powered POS & ERP systems for jewelry businesses (because even diamonds need digital sparkle)
 
-Interactive fitness tracking mobile app with Kotlin, including motion tracking and calorie counting
+Fitness tracking apps with Kotlin that count calories and steps — mostly for me to justify snacking
 
-Dynamic landing pages and marketing sites crafted with React and Tailwind CSS
+Marketing landing pages that look so good, they might just make you buy something you don’t need
 
-Freelancer & client connect desktop platform using C#
+Freelancer & client connect desktop apps in C# — connecting humans and machines, one bug at a time
+
 
 ## GitHub Stats
 
@@ -28,4 +29,4 @@ Freelancer & client connect desktop platform using C#
 ## Connect with Me
 - [Personal Website](https://archfolio.dev)
 
-📧 Email me anytime — I love chatting about tech, design, or collaboration!
+📧 Email me anytime — I read every message, even if it’s just a “Hello, world!”
