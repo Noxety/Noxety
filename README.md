@@ -25,7 +25,7 @@ Freelancer & client connect desktop platform using C#
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noxety&layout=compact&theme=radical)
 
-Connect with Me
-🌐 Personal Website
+## Connect with Me
+- [Personal Website](https://archfolio.dev)
 
 📧 Email me anytime — I love chatting about tech, design, or collaboration!
