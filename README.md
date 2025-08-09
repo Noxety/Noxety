@@ -18,10 +18,10 @@ Dynamic landing pages and marketing sites crafted with React and Tailwind CSS
 Freelancer & client connect desktop platform using C#
 
 GitHub Stats
-
+![Noxety's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noxety&show_icons=true&theme=radical)
 
 Top Languages
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noxety&layout=compact&theme=radical)
 
 Connect with Me
 🌐 Personal Website
