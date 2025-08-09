@@ -1,25 +1,29 @@
-# Hi there, I'm Noxety! 👋
+Hi there, I'm Noxety! 👋
+About Me
+I’m a full-stack developer and freelance graphic designer who’s been crafting code and visuals since 2018. With hands-on experience in React, Laravel, Next.js, and mobile development using Kotlin, I specialize in building scalable web apps, ERP & POS systems, and smooth UI/UX powered by Framer Motion and Anime.js animations.
 
-## About Me
+🌱 Currently deepening my knowledge in AI integration, automation with Zapier, and exploring cutting-edge web technologies
 
-I'm a passionate software developer with a strong interest in open source projects, web development, and cloud computing. I enjoy learning new technologies and continuously improving my skills.
+👯 Open to collaborating on smart web apps, ERP/POS automation, AI-powered dashboards, and creative UI/UX projects
 
-- 🌱 I’m currently learning [DevOps , Golang , Odoo ]
-- 👯 I’m looking to collaborate on [Resume Builder Project , Project Management System , Ai integration , Chat Bot ]
-- 📫 How to reach me: [thura3.shine33@gmail.com]
+📫 Reach me at: thura3.shine33@gmail.com
 
-## GitHub Stats
+What I’ve Built
+AI-powered POS & ERP systems for jewelry businesses, integrating real-time data analysis and automation
 
-![Noxety's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noxety&show_icons=true&theme=radical)
+Interactive fitness tracking mobile app with Kotlin, including motion tracking and calorie counting
 
-## Top Languages
+Dynamic landing pages and marketing sites crafted with React and Tailwind CSS
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noxety&layout=compact&theme=radical)
+Freelancer & client connect desktop platform using C#
 
-
-## Connect with Me
+GitHub Stats
 
 
-- [Personal Website](https://Noxety.github.io)
+Top Languages
 
-Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
+
+Connect with Me
+🌐 Personal Website
+
+📧 Email me anytime — I love chatting about tech, design, or collaboration!
