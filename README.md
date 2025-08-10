@@ -18,10 +18,6 @@ Marketing landing pages that look so good, they might just make you buy somethin
 Freelancer & client connect desktop apps in C# — connecting humans and machines, one bug at a time
 
 
-## GitHub Stats
-
-![Noxety's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noxety&show_icons=true&theme=radical)
-
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noxety&layout=compact&theme=radical)
