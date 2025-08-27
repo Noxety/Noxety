@@ -17,6 +17,7 @@ Marketing landing pages that look so good, they might just make you buy somethin
 
 Freelancer & client connect desktop apps in C# — connecting humans and machines, one bug at a time
 
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -28,6 +29,8 @@ Freelancer & client connect desktop apps in C# — connecting humans and machine
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
+
+
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noxety&layout=compact&theme=radical)
