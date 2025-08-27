@@ -18,7 +18,17 @@ Marketing landing pages that look so good, they might just make you buy somethin
 Freelancer & client connect desktop apps in C# — connecting humans and machines, one bug at a time
 
 
-[Play Breakout from my GitHub contributions](./breakout.html)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 
 
 ## Top Languages
