@@ -1,6 +1,8 @@
 Hi there, I'm Noxety! 👋
+
 About Me
-I’m a full-stack developer and freelance graphic designer, debugging life (and code) since 2018. I build scalable web apps, ERP & POS systems, and smooth UI/UX experiences — all powered by React, Laravel, Kotlin, and a dash of caffeine.
+
+I’m a full-stack developer and freelance graphic designer, debugging life (and code) since 2018. I build scalable web apps, ERP & POS systems, and smooth UI/UX experiences — all powered by Reac[...]
 
 🌱 Currently trying to teach AI to do my job so I can focus on coffee breaks ☕
 
@@ -9,6 +11,7 @@ I’m a full-stack developer and freelance graphic designer, debugging life (and
 📫 Ping me at: thura3.shine33@gmail.com — I promise I don’t bite!
 
 What I’ve Built
+
 AI-powered POS & ERP systems for jewelry businesses (because even diamonds need digital sparkle)
 
 Fitness tracking apps with Kotlin that count calories and steps — mostly for me to justify snacking
@@ -32,7 +35,7 @@ Freelancer & client connect desktop apps in C# — connecting humans and machine
 
 ## Top Languages
 
-![Noxety's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noxety&show_icons=true&theme=default)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noxety&layout=compact&theme=default)](https://github.com/Noxety?tab=languages)
 
 ## Connect with Me
 - [Personal Website](https://archfolio.dev)
