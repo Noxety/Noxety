@@ -32,7 +32,7 @@ Freelancer & client connect desktop apps in C# — connecting humans and machine
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noxety&layout=compact&theme=radical)
+![Noxety's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noxety&show_icons=true&theme=default)
 
 ## Connect with Me
 - [Personal Website](https://archfolio.dev)
